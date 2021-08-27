@@ -1,0 +1,11 @@
+<svg id="rd-map-3" xmlns="http://www.w3.org/2000/svg" width="232" height="278" viewBox="0 0 232 278">
+  <path id="Union_1" data-name="Union 1" d="M20,21.084H212a20,20,0,0,1,20,20V258a20,20,0,0,1-20,20H20A20,20,0,0,1,0,258V41.084A20,20,0,0,1,20,21.084Z" fill="#fff"/>
+  <path id="Polygon_3" data-name="Polygon 3" d="M35.525,0,71.05,36.326H0Z" transform="translate(80.475)"/>
+  <path id="Rectangle_67" data-name="Rectangle 67" d="M20,0H212a20,20,0,0,1,20,20V62a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(0 18.51)"/>
+  <text id="Q3_2021" data-name="Q3 2021" transform="translate(66.5 58.51)" fill="#fff" font-size="25" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+  <g id="Group_76" data-name="Group 76" transform="translate(0 13)">
+    <text id="Private_Sale" data-name="Private Sale" transform="translate(116 131)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-52.411" y="0">Private Sale</tspan></text>
+    <text id="Start:_August_17_End:_September_30" data-name="Start: August 17
+End: September 30" transform="translate(33.5 193.49)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Start: August 17</tspan><tspan x="0" y="20">End: September 30</tspan></text>
+  </g>
+</svg>

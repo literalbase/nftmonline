@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="219.676" viewBox="0 0 232 219.676">
+  <g id="rd-map-6" transform="translate(0 0)">
+    <path id="Union_1" data-name="Union 1" d="M20,16.375H212a20,20,0,0,1,20,20v183.3H0V36.375A20,20,0,0,1,20,16.375Z" fill="#fff"/>
+    <path id="Union_3" data-name="Union 3" d="M-1467.99-4702.709v-41.438a20,20,0,0,1,20-20h78.236l17.764-16.377,17.764,16.377h78.236a20,20,0,0,1,20,20v41.438Z" transform="translate(1467.99 4780.523)"/>
+    <text id="Q3_2021" data-name="Q3 2021" transform="translate(60.5 48.907)" fill="#fff" font-size="28" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+    <text id="NFTM_Exchange" data-name="NFTM Exchange" transform="translate(116 129.727)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-72.021" y="0">NFTM Exchange</tspan></text>
+    <text id="December" transform="translate(73.771 179.727)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">December</tspan></text>
+  </g>
+</svg>

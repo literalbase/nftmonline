@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231.332" height="307.493" viewBox="0 0 231.332 307.493">
+  <g id="rd-map-4" transform="translate(0 0)">
+    <path id="Union_1" data-name="Union 1" d="M20,20.611H211.332a20,20,0,0,1,20,20V287.493a20,20,0,0,1-20,20H20a20,20,0,0,1-20-20V40.611A20,20,0,0,1,20,20.611Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M35.423,0,70.845,41.221H0Z" transform="translate(80.243 0)"/>
+    <path id="Rectangle_19" data-name="Rectangle 19" d="M20,0H211.332a20,20,0,0,1,20,20V61.438a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(0 20.608)"/>
+    <text id="Q3_2021" data-name="Q3 2021" transform="translate(72.15 58.827)" fill="#fff" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+    <g id="Group_77" data-name="Group 77" transform="translate(0 29.3)">
+      <text id="First_Holders_Reward" data-name="First HoldersReward" transform="translate(115.65 136.478)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-56.567" y="0">First Holders</tspan><tspan x="-34.051" y="20">Reward</tspan></text>
+      <text id="November_30" data-name="November 30" transform="translate(57.155 206.478)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">November 30</tspan></text>
+    </g>
+  </g>
+</svg>

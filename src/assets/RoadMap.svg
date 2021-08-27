@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480.786" height="87" viewBox="0 0 1480.786 87">
+  <g id="road-map-route" transform="translate(-219.635 -4712)">
+    <g id="Group_54" data-name="Group 54" transform="translate(220 4712)">
+      <path id="Path_9" data-name="Path 9" d="M299.6,4299.046h0L425.9,4322.5l245.575-48.077L917.052,4322.5l245.576-48.077L1408.2,4322.5" transform="translate(-299.604 -4259.967)" fill="none" stroke="#ab0d0d" stroke-width="4"/>
+      <path id="Path_284" data-name="Path 284" d="M509.238,4323.807,764.9,4274.418l107.7,23.16" transform="translate(607.401 -4259.967)" fill="none" stroke="#ab0d0d" stroke-width="4"/>
+      <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(1349.99)" fill="#fff" stroke="#ab0d0d" stroke-width="4">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="12" fill="none"/>
+      </g>
+      <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(1100.003 48)" fill="#fff" stroke="#ab0d0d" stroke-width="4">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="12" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(314.042 4751)" fill="#fff" stroke="#ab0d0d" stroke-width="8">
+      <circle cx="24" cy="24" r="24" stroke="none"/>
+      <circle cx="24" cy="24" r="20" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(821.021 4760)" fill="#fff" stroke="#ab0d0d" stroke-width="4">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="12" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(572.03 4712)" fill="#fff" stroke="#ab0d0d" stroke-width="4">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="12" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1071.012 4712)" fill="#fff" stroke="#ab0d0d" stroke-width="4">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="12" fill="none"/>
+    </g>
+  </g>
+</svg>

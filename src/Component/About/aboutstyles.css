@@ -1,0 +1,83 @@
+
+.aboutContainer{
+  height: auto;
+  background-color: #fbd4d4;
+  margin-top: 0;
+  display: flex;
+  justify-content: space-between; 
+  flex-direction: column;
+ 
+}
+.part1
+{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+h2{
+  letter-spacing: 1px;
+  font-size: 35px;
+  color: #0a0a0a;
+  font-weight: 700;
+  
+}
+h3{
+  color: #535050;
+  font-size:  18px;
+  margin-top: 30px;
+  
+  
+}
+.about-description{
+ width: 25rem;
+ font-size: 14px;
+ align-items: center;
+ color: #444;
+ margin-top: 30px;
+ margin-left: 85px;
+ line-height :24px;
+}
+.left{
+  display: flex;
+  justify-content: space-between;
+  height: fit-content;
+}
+.image1{
+   margin-top: 100px;
+   margin-right:6rem;
+   width: 400px;
+   
+}
+.right{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 2;
+  height: 40vh;
+}
+.image2{
+  
+  margin-left: 200px;
+  width: 30rem;
+  object-fit: cover;
+}
+.part2{
+  margin-right: 18.25rem;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding-bottom: 100px;
+  margin-top: 0%;
+  
+}
+.imgView{
+ padding-bottom: 100px;
+ 
+}
+.imgTop{
+ 
+ 
+}

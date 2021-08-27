@@ -1,0 +1,8 @@
+<svg id="rd-map-5-live" xmlns="http://www.w3.org/2000/svg" width="232" height="276.999" viewBox="0 0 232 276.999">
+  <path id="Union_1" data-name="Union 1" d="M0,246.511V38.7a20,20,0,0,1,20-20H97.9L116,0l18.1,18.7H212a20,20,0,0,1,20,20V246.511Z" transform="translate(0 0)" fill="#feb4b4"/>
+  <rect id="Rectangle_19" data-name="Rectangle 19" width="232" height="60.975" rx="20" transform="translate(0 216.023)"/>
+  <text id="Q3_2021" data-name="Q3 2021" transform="translate(63.144 73.979)" font-size="28" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+  <text id="Listing_On_Binance" data-name="Listing OnBinance" transform="translate(116 127.023)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-45.79" y="0">Listing On</tspan><tspan x="-36.431" y="20">Binance</tspan></text>
+  <text id="LIVE_NOW" data-name="LIVE NOW" transform="translate(70 252.511)" fill="#fff" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">LIVE NOW</tspan></text>
+  <text id="November_22" data-name="November 22" transform="translate(62.224 182.023)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">November 22</tspan></text>
+</svg>

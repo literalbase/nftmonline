@@ -1,0 +1,9 @@
+<svg id="rd-map-1-live" xmlns="http://www.w3.org/2000/svg" width="232" height="281" viewBox="0 0 232 281">
+  <path id="Union_1" data-name="Union 1" d="M0,235V37.823a20,20,0,0,1,20-20H97.9L116,0l18.1,17.823H212a20,20,0,0,1,20,20V235Z" fill="#feb4b4"/>
+  <rect id="Rectangle_19" data-name="Rectangle 19" width="232" height="62" rx="20" transform="translate(0 219)"/>
+  <text id="Q3_2021" data-name="Q3 2021" transform="translate(62.5 77)" font-size="27" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+  <text id="Private_Sale" data-name="Private Sale" transform="translate(116 130)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-52.411" y="0">Private Sale</tspan></text>
+  <text id="LIVE_NOW" data-name="LIVE NOW" transform="translate(67 253)" fill="#fff" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">LIVE NOW</tspan></text>
+  <text id="Start:_August_2_End:_August_16" data-name="Start: August 2
+End: August 16" transform="translate(52.5 166)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Start: August 2</tspan><tspan x="0" y="20">End: August 16</tspan></text>
+</svg>

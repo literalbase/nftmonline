@@ -1,0 +1,8 @@
+<svg id="rd-map-4-live" xmlns="http://www.w3.org/2000/svg" width="231.332" height="307.212" viewBox="0 0 231.332 307.212">
+  <path id="Union_1" data-name="Union 1" d="M0,276.493V40.611a20,20,0,0,1,20-20H97.955L115.666,0l17.711,20.611h77.954a20,20,0,0,1,20,20V276.493Z" transform="translate(0 0)" fill="#feb4b4"/>
+  <rect id="Rectangle_19" data-name="Rectangle 19" width="231.332" height="61.438" rx="20" transform="translate(0 245.775)"/>
+  <text id="Q3_2021" data-name="Q3 2021" transform="translate(62.066 74.447)" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+  <text id="First_Holders_Reward" data-name="First HoldersReward" transform="translate(115.65 136.478)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-56.567" y="0">First Holders</tspan><tspan x="-34.051" y="20">Reward</tspan></text>
+  <text id="November_30" data-name="November 30" transform="translate(57.155 191.478)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">November 30</tspan></text>
+  <text id="LIVE_NOW" data-name="LIVE NOW" transform="translate(69.666 282.493)" fill="#fff" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">LIVE NOW</tspan></text>
+</svg>

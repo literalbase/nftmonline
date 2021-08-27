@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="64" viewBox="0 0 1480 64">
+  <g id="tokenomics-chat" transform="translate(-220 -4321)">
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="625" height="64" rx="32" transform="translate(1075 4321)" fill="#290303"/>
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="438" height="64" rx="32" transform="translate(892 4321)" fill="#4a0707"/>
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="340.25" height="64" rx="32" transform="translate(693.75 4321)" fill="#740b0b"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="340.25" height="64" rx="32" transform="translate(471.75 4321)" fill="#a40e0e"/>
+    <path id="Rectangle_51" data-name="Rectangle 51" d="M0,0H208.5a32,32,0,0,1,32,32v0a32,32,0,0,1-32,32H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(349.5 4321)" fill="#c50f0f"/>
+    <path id="Rectangle_52" data-name="Rectangle 52" d="M0,0H153a32,32,0,0,1,32,32v0a32,32,0,0,1-32,32H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(257 4321)" fill="#e20f0f"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="74" height="64" rx="32" transform="translate(220 4321)" fill="#fb1111"/>
+  </g>
+</svg>

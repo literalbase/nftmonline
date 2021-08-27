@@ -1,0 +1,8 @@
+<svg id="rd-map-6-live" xmlns="http://www.w3.org/2000/svg" width="232" height="250.415" viewBox="0 0 232 250.415">
+  <path id="Union_1" data-name="Union 1" d="M0,219.676V36.375a20,20,0,0,1,20-20H98.238L116,0l17.762,16.375H212a20,20,0,0,1,20,20v183.3Z" fill="#feb4b4"/>
+  <rect id="Rectangle_19" data-name="Rectangle 19" width="232" height="61.438" rx="20" transform="translate(0 188.977)"/>
+  <text id="Q3_2021" data-name="Q3 2021" transform="translate(60.5 66.977)" font-size="28" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Q3 2021</tspan></text>
+  <text id="NFTM_Exchange" data-name="NFTM Exchange" transform="translate(116 119.977)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-72.021" y="0">NFTM Exchange</tspan></text>
+  <text id="December" transform="translate(73.771 154.977)" fill="#3b3b3b" font-size="17" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">December</tspan></text>
+  <text id="LIVE_NOW" data-name="LIVE NOW" transform="translate(70 225.676)" fill="#fff" font-size="17" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">LIVE NOW</tspan></text>
+</svg>
